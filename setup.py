@@ -12,6 +12,6 @@ setup(
     packages=['yandex_parser'],
     install_requires=[
         'pyquery==1.2.9',
-        'lxml==2.3.4',
+        'lxml==4.6.2',
     ],
 )
